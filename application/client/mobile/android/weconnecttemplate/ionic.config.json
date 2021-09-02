@@ -1,0 +1,7 @@
+{
+  "name": "weconnecttemplate",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
